@@ -1,8 +1,9 @@
     body {
-        font: 400 15px Lato, sans-serif;
+        font: 400 15px;
         line-height: 1.8;
         color: #818181;
     }
+
     div.jumbotron.text-center{
         height: 300px;
     }
@@ -23,6 +24,7 @@
         color: #303030;
         font-weight: 600;
         margin-bottom: 30px;
+
     }
     h4 {
         font-size: 20px;
@@ -30,11 +32,12 @@
         color: #303030;
         font-weight: 400;
         margin-bottom: 30px;
+
     }  
     .jumbotron {
         color: #fff;
         padding: 100px 25px;
-        font-family: Montserrat, sans-serif;
+
     }
     .container-fluid {
         padding: 60px 50px;
@@ -42,7 +45,12 @@
     .bg-grey {
         background-color: #f6f6f6;
     }
-
+    footer{
+        background-color: #f6f6f6;
+        margin: 0;
+        padding: 0;
+        font-family : Raleway;
+    }
     .thumbnail {
         padding: 0 0 0 0;
         border: none;
@@ -63,49 +71,17 @@
     .carousel-indicators li.active {
         background-color: #313131;
     }
-    .item h4 {
-        font-size: 19px;
-        line-height: 1.375em;
-        font-weight: 400;
-        font-style: italic;
-        margin: 70px 0;
-    }
-    .item span {
-        font-style: normal;
-    }
-    .panel {
-        border: 1px solid ; 
-        border-radius: 30px !important;
-        transition: box-shadow 0.5s;
 
-    }
-    .panel:hover {
-        box-shadow: 5px 0px 40px rgba(0,0,0, .2);
-    }
-    .panel-heading {
-        color: #fff !important;
-        background-color: #3c322f !important;
-        padding: 25px;
-        border-bottom: 1px solid transparent;
-        border-top-left-radius: 30px !important;
-        border-top-right-radius: 30px !important;
-        border-bottom-left-radius: 0px;
-        border-bottom-right-radius: 0px;
-    }
-    .panel-footer {
-        background-color: white !important;
-    }
-    
     .navbar {
         margin-bottom: 0;
         background-color: #000000;
         z-index: 9999;
         border: 0;
-        font-size: 11px !important;
-        line-height: 1.42857143 !important;
+        font-size: 12px !important;
+        line-height: 2 !important;
         letter-spacing: 4px;
         border-radius: 0;
-        font-family: Montserrat, sans-serif;
+
     }
     .navbar li a, .navbar .navbar-brand {
         color: #000000 !important;    
@@ -129,6 +105,9 @@
     }
     .links a i:hover{
         color:rgba(red, green, rgb(33, 33, 143), .5);
+    }
+    div{
+        font-family : Raleway;
     }
 
 
