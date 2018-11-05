@@ -25,8 +25,5 @@ Deployed on google app engine with link https://zhang-felix.appspot.com/
 
 * **Felix Xin Song Zhang** 
 
-## License
-
-MIT License 
 
 
