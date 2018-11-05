@@ -1,10 +1,14 @@
 # Personal Website Portfolio
 
-Welcome to my personal website
-
 ## Description
 
-This is a portfolio website made using simple HTML5, CSS3 along with Bootstrap framework designed to showcase my knowledge in Web Development
+This is a portfolio website made using simple HTML5, CSS3 along with Bootstrap framework designed to showcase my knowledge in Web Development up to this point.
+
+## Features
+
+* Responsive single page application
+* Designed to be viewed on all platforms
+* Smooth scroll animation using jQuery  
 
 ## Deployment
 
